@@ -9,7 +9,8 @@ serves its own live demo from GitHub Pages. AGPL.
 Try the composed clients — same parts, different grades:
 **[zen](https://nostr-client.github.io/zen/)** (read only, serene) ·
 **[micro](https://nostr-client.github.io/micro/)** (daily essentials) ·
-**[monty](https://nostr-client.github.io/monty/)** (the full monty)
+**[monty](https://nostr-client.github.io/monty/)** (the full monty) ·
+**[reader](https://nostr-client.github.io/reader/)** (long-form magazine)
 
 | kernel | components | composed |
 |---|---|---|
